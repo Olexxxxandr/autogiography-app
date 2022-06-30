@@ -1,0 +1,43 @@
+.interview-block{
+    margin: 50px auto;
+    max-width: 1100px;
+    color: black;
+}
+
+.interview{
+    margin-bottom: 50px;
+}
+
+.interview-pic{
+    width: 100%;
+}
+
+.interview-info{
+    margin: 10px 20px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.interview-set{
+    font-size: 18px;
+    display: flex;
+    align-items: center;
+    text-align: justify;
+    color: #919191;
+}
+
+.interview-about{
+    font-weight: bold;
+    margin-top: 30px;
+    font-size: 36px;
+}
+
+.interview-text{
+    font-weight: inherit;
+    padding: 20px;
+    margin-top: 10px;
+}
+
+.set{
+    margin: -10px 20px;
+}

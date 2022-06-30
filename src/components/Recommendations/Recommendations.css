@@ -1,0 +1,30 @@
+.rec-title{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 30px;
+    margin-bottom: 50px;
+}
+
+.rec-text{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+}
+
+.rec-more{
+    font-size: 28px;
+    font-style: normal;
+    font-weight: 500;
+    color: #55A3FF;
+}
+
+a{
+    text-decoration: none;
+}
+
+.people-list{
+    margin: 0 15px;
+    display: flex;
+    flex-wrap: wrap;
+}

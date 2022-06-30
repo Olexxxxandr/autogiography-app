@@ -1,0 +1,40 @@
+.people-profile{
+    width: 230px;
+    background: #FFFFFF;
+    border: 2px solid #B3B3B3;
+    border-radius: 3px;
+    margin-bottom: 50px;
+}
+
+.profile-img{
+    margin: 20px 70px;
+}
+
+.profile-name{
+    font-size: 20px;
+    font-weight: 700;
+    color: #484848;
+    margin: 0 20px;
+    text-align: center;
+}
+
+.profile-prof{
+    color: #484848;
+    font-size: 18px;
+    margin-top: 20px;
+    text-align: center;
+}
+
+.profile-btn{
+    margin-top: 30px;
+    margin-bottom: 20px;
+    padding: 8px 30px;
+    background: #7BD7FE;
+    border: 1px solid #7BD7FE;
+    border-radius: 2px;
+    margin-left: 47px;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    color: white;
+}
